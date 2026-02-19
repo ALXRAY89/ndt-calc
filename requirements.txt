@@ -1,5 +1,3 @@
 streamlit
 numpy
 plotly
-fpdf2
-Pillow
